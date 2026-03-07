@@ -1,4 +1,3 @@
-# Marina-Tomazela
 # Olá, me chamo Marina-Tomazela! 
 ## Bem vindo ao meu perfil GitHub 👋
 Atualmente estou desenvolvedora em formação na área de tecnologia, com interesse em programação e desenvolvimento de soluções digitais. 
