@@ -1,4 +1,4 @@
-# Olá, me chamo Marina-Tomazela! 
+# Olá, me chamo Marina Tomazela! 
 
 ## Bem vindo ao meu perfil GitHub 🥰
 * Atualmente sou desenvolvedora em formação na área de tecnologia, com interesse em programação e desenvolvimento de soluções digitais 💻 
@@ -25,8 +25,4 @@ Sinta-se à vontade para entrar em contato comigo através de qualquer uma das p
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomazela_marina)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marina.tomazela.1)
 
----
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
